@@ -1,0 +1,229 @@
+# Blender MTL File: ''
+# Material Count: 19
+newmtl Material__25_f14fuselage.jpg
+Ns 21.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14fuselage.jpg
+map_Ks Grumman F-14 Tomcat\\f14fuselage_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14fuselage_Normal.jpg
+
+
+newmtl Material__26_f14fuselage_lower.jpg
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14fuselage_lower.jpg
+map_Ks Grumman F-14 Tomcat\\f14fuselage_lower_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14fuselage_lower_Normal.jpg
+
+
+newmtl Material__27_f14intakes_misc.jpg
+Ns 25.490196
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14intakes_misc.jpg
+map_Ks Grumman F-14 Tomcat\\f14intakes_misc_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14intakes_misc_Normal.jpg
+
+
+newmtl Material__28_f14_wing_1.jpg
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14_wing_1.jpg
+map_Ks Grumman F-14 Tomcat\\f14_wing_1_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14_wing_1_Normal.jpg
+
+
+newmtl Material__29_f14_wing_2.jpg
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14_wing_2.jpg
+map_Ks Grumman F-14 Tomcat\\f14_wing_2_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14_wing_2_Normal.jpg
+
+
+newmtl Material__30
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.385882 0.420392 0.439216
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl Material__31_f14_stores.jpg
+Ns 15.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14_stores.jpg
+map_Bump Grumman F-14 Tomcat\\f14d_stores_Normal.jpg
+
+
+newmtl Material__32_f14canopy.jpg
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14canopy.jpg
+map_Ks Grumman F-14 Tomcat\\f14canopy_spec.jpg
+
+
+newmtl Material__33
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.006275 0.056471 0.078431
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 0.380000
+illum 2
+
+
+newmtl Material__34_f14interior_detail.jp
+Ns 23.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14interior_detail.jpg
+
+
+newmtl Material__36_sju17ejectionseat.jpg
+Ns 31.372549
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\sju17ejectionseat.jpg
+
+
+newmtl Material__37_Pilota_militare.jpg
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\Pilota_militare.jpg
+
+
+newmtl Material__38_f14d_burner.jpg
+Ns 56.862745
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14d_burner.jpg
+
+
+newmtl Material__39_f14taileron_lt.jpg
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14taileron_lt.jpg
+map_Ks Grumman F-14 Tomcat\\f14taileron_lt_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14taileron_lt_Normal.jpg
+
+
+newmtl Material__40_f14taileron_rt.jpg
+Ns 15.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14taileron_rt.jpg
+map_Ks Grumman F-14 Tomcat\\f14taileron_rt_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14taileron_rt_Normal.jpg
+
+
+newmtl Material__41_f14tail_lt.jpg
+Ns 11.764706
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14tail_lt.jpg
+map_Ks Grumman F-14 Tomcat\\f14tail_lt_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14tail_lt_Normal.jpg
+
+
+newmtl Material__42_f14tail_rt.jpg
+Ns 29.411765
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14tail_rt.jpg
+map_Ks Grumman F-14 Tomcat\\f14tail_rt_spec.jpg
+map_Bump Grumman F-14 Tomcat\\f14taileron_rt_Normal.jpg
+
+
+newmtl Material__43_f14engine.jpg
+Ns 43.137255
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14engine.jpg
+
+
+newmtl Material__44_f14landinggear.jpg
+Ns 23.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grumman F-14 Tomcat\f14landinggear.jpg
+
+
